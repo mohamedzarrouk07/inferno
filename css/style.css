@@ -1,0 +1,65 @@
+.nav1 {
+  background: #060807;
+  border-bottom: #ff2752 5px solid;
+  opacity: 70%;
+}
+
+.img-responsive {
+  height: auto;
+  width: auto;
+  max-height: 72px;
+  max-width: 250px;
+}
+
+#home-section {
+  background: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.alo {
+  margin-top: 16rem;
+}
+
+.contact {
+  align-self: center;
+}
+
+#about-section {
+  background-color: #000000;
+  height: auto;
+}
+
+#services-section {
+  background-color: #fd1d41;
+  height: auto;
+}
+
+footer {
+  background-color: #000000;
+  height: auto;
+}
+
+.coach {
+
+  display: inline-block;
+  height: auto;
+  width: auto;
+  max-height: 22rem;
+}
+
+.join {
+  text-align: center;
+  font-size: 6rem;
+}
